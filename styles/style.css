@@ -37,12 +37,6 @@ h3 {
   margin: 0 0 28px 0;
 }
 
-p,
-ul {
-  line-height: 2;
-  max-width: 75%;
-}
-
 img {
   width: 300px;
   max-width: 75%;
