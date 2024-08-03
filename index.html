@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Logic gates</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Noto+Sans"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h1>Logic gates</h1>
+
+    <h2>What are logic gates?</h2>
+    <p>
+      Logic gates are devices that take in one or more binary values as inputs
+      and produces a single binary value as output.
+    </p>
+    <p>
+      They can be connected together to construct more complex devices such as:
+    </p>
+    <ul>
+      <li>Computers</li>
+      <li>Smartphones</li>
+      <li>Microprocessors</li>
+      <li>Microcontrollers</li>
+    </ul>
+
+    <h2>The different types of logic gates</h2>
+    <div>
+      <h3>The AND gate</h3>
+      <img
+        src="images/and-gate.svg"
+        alt="AND gate symbol with inputs A and B and output C"
+      />
+      <table align="right">
+        <caption>
+          AND gate truth table
+        </caption>
+        <tr>
+          <th colspan="2">Inputs</th>
+          <th>Output</th>
+        </tr>
+        <tr>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+        </tr>
+        <tr>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>0</td>
+          <td>1</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+      </table>
+      <p>
+        This is an AND gate. why is it called an AND gate, you might ask? well,
+        because it outputs a 1 only when both its inputs are a 1. in other
+        words, C will be 1 if and only if both A <strong>and</strong> B are 1.
+      </p>
+      <p>
+        For further information consider reading the
+        <a href="https://en.wikipedia.org/wiki/AND_gate">AND gate wikipage</a>
+      </p>
+    </div>
+    <div>
+      <h3>The OR gate</h3>
+      <img
+        src="images/or-gate.svg"
+        alt="OR gate symbol with inputs A and B and output C"
+      />
+      <table align="right">
+        <caption>
+          OR gate truth table
+        </caption>
+        <tr>
+          <th colspan="2">Inputs</th>
+          <th>Output</th>
+        </tr>
+        <tr>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+        </tr>
+        <tr>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>0</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>0</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+      </table>
+      <p>
+        And this is an OR gate. now, why is it called an OR gate, yep you've
+        guessed it, because it outputs a 1 when either its inputs are a 1. in
+        other words, C will be 1 if and only if either A <strong>or</strong> B
+        are 1.
+      </p>
+      <p>
+        For further information consider reading the
+        <a href="https://en.wikipedia.org/wiki/OR_gate">OR gate wikipage</a>
+      </p>
+    </div>
+  </body>
+</html>
