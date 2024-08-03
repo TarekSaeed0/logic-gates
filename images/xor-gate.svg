@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="63.125001"
-     inkscape:cy="47.625"
+     inkscape:zoom="2.9137695"
+     inkscape:cx="44.444148"
+     inkscape:cy="33.118612"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -110,36 +110,26 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#cdd6f4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 80.03125,25 C 100.03125,25 105.03125,25 105.03125,25"
        id="path3059"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#cdd6f4;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 40.416967,15 L 15.03125,15"
        id="path3061" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#cdd6f4;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 41.393341,35 L 15.03125,35"
        id="path3944" />
-    <g
-       id="g2560"
-       inkscape:label="Layer 1"
-       transform="translate(36.53125,-39.5)">
-      <path
-         id="path3516"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M -2.25,81.500005 C -3.847374,84.144405 -4.5,84.500005 -4.5,84.500005 L -8.15625,84.500005 L -6.15625,82.062505 C -6.15625,82.062505 -0.5,75.062451 -0.5,64.5 C -0.5,53.937549 -6.15625,46.9375 -6.15625,46.9375 L -8.15625,44.5 L -4.5,44.5 C -3.71875,45.4375 -3.078125,46.15625 -2.28125,47.5 C -0.408531,50.599815 2.5,56.526646 2.5,64.5 C 2.5,72.45065 -0.396697,78.379425 -2.25,81.500005 z"
-         sodipodi:nodetypes="ccccsccccsc" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M -2.40625,44.5 L -0.40625,46.9375 C -0.40625,46.9375 5.25,53.937549 5.25,64.5 C 5.25,75.062451 -0.40625,82.0625 -0.40625,82.0625 L -2.40625,84.5 L 0.75,84.5 L 14.75,84.5 C 17.158076,84.500001 22.439699,84.524514 28.375,82.09375 C 34.310301,79.662986 40.911536,74.750484 46.0625,65.21875 L 44.75,64.5 L 46.0625,63.78125 C 35.759387,44.71559 19.506574,44.5 14.75,44.5 L 0.75,44.5 L -2.40625,44.5 z M 3.46875,47.5 L 14.75,47.5 C 19.434173,47.5 33.03685,47.369793 42.71875,64.5 C 37.951964,72.929075 32.197469,77.18391 27,79.3125 C 21.639339,81.507924 17.158075,81.500001 14.75,81.5 L 3.5,81.5 C 5.3735884,78.391566 8.25,72.45065 8.25,64.5 C 8.25,56.526646 5.3414686,50.599815 3.46875,47.5 z"
-         id="path4973"
-         sodipodi:nodetypes="ccsccccscccccccccsccsc" />
-    </g>
+    <path
+       id="path3516"
+       style="fill:#cdd6f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.28125,42.000005 c -1.597374,2.6444 -2.25,3 -2.25,3 H 28.375 l 2,-2.4375 c 0,0 5.65625,-7.000054 5.65625,-17.562505 C 36.03125,14.437549 30.375,7.4375 30.375,7.4375 L 28.375,5 h 3.65625 c 0.78125,0.9375 1.421875,1.65625 2.21875,3 1.872719,3.099815 4.78125,9.026646 4.78125,17 0,7.95065 -2.896697,13.879425 -4.75,17.000005 z"
+       sodipodi:nodetypes="ccccsccccsc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#cdd6f4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="11.460938"
        y="20.346001"
        id="text6866"><tspan
@@ -147,10 +137,10 @@
          id="tspan6868"
          x="11.460938"
          y="20.346001"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cdd6f4;fill-opacity:1">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#cdd6f4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="11.488281"
        y="40.346001"
        id="text6870"><tspan
@@ -158,10 +148,10 @@
          id="tspan6872"
          x="11.488281"
          y="40.346001"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">B</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cdd6f4;fill-opacity:1">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#cdd6f4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="118.41016"
        y="30.265345"
        id="text6878"><tspan
@@ -169,5 +159,14 @@
          id="tspan1"
          x="118.41016"
          y="30.265345">C</tspan></text>
+    <path
+       id="path2"
+       style="fill:#585b70;fill-rule:evenodd;stroke:none;fill-opacity:1"
+       d="m 38.378906,7.0761719 0.826172,1.3945312 c 4.390311,7.1799449 5.796685,16.0938269 3.689453,24.2656249 -4.84e-4,0.0019 4.85e-4,0.004 0,0.0059 -0.883377,3.676077 -2.55895,7.045764 -4.488281,10.177735 5.091351,-0.0084 10.172614,0.04932 15.232422,-0.03906 6.729231,-0.235959 13.374981,-2.826734 18.396484,-7.308593 a 1.0761199,1.0761199 0 0 1 0.0098,-0.0078 C 75.409648,32.626369 78.067277,28.927424 80.292969,24.986328 77.311473,19.674142 73.409715,14.814694 68.3125,11.59375 a 1.0761199,1.0761199 0 0 1 -0.01367,-0.0078 C 63.509328,8.4661083 57.717495,7.0174779 51.976562,7.078125 a 1.0761199,1.0761199 0 0 1 -0.01172,0 c -4.528221,-0.00278 -9.056968,-0.0017 -13.585938,-0.00195 z m 0.01172,35.7968751 c -0.0063,0.02653 -0.01681,0.02244 -0.02344,0.04687 0.0013,-2e-6 0.0026,2e-6 0.0039,0 z" />
+    <path
+       style="fill:#cdd6f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.125,5 2,2.4375 c 0,0 5.65625,7.000049 5.65625,17.5625 0,10.562451 -5.65625,17.5625 -5.65625,17.5625 l -2,2.4375 h 3.15625 14 c 2.408076,10e-7 7.689699,0.02451 13.625,-2.40625 5.935301,-2.430764 12.536536,-7.343266 17.6875,-16.875 L 81.28125,25 82.59375,24.28125 C 72.290637,5.21559 56.037824,5 51.28125,5 h -14 z M 40,8 H 51.28125 C 55.965423,8 69.5681,7.869793 79.25,25 74.483214,33.429075 68.728719,37.68391 63.53125,39.8125 58.170589,42.007924 53.689325,42.000001 51.28125,42 h -11.25 c 1.873588,-3.108434 4.75,-9.04935 4.75,-17 0,-7.973354 -2.908531,-13.900185 -4.78125,-17 z"
+       id="path4973"
+       sodipodi:nodetypes="ccsccccscccccccccsccsc" />
   </g>
 </svg>

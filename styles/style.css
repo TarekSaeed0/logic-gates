@@ -1,27 +1,27 @@
 html {
   font-family: "Open Sans", sans-serif;
-  font-size: 16px;
   letter-spacing: 1px;
   color: #cdd6f4;
-  background-color: #11111b;
+  background: linear-gradient(#11111b, #b4befe);
 }
 
 body {
-  margin: 5% 10%;
   background-color: #181825;
-  padding: 20px;
-  border: 3px solid #45475a;
+  border-radius: 20px;
+  margin: 5%;
+  padding: 30px;
 }
 
 div {
   background-color: #1e1e2e;
-  border: 3px solid #585b70;
-  margin: 20px 0;
-  padding: 20px;
+  border-radius: 10px;
+  margin: 30px 0 0 0;
+  padding: 30px;
+  overflow: auto;
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 64px;
   text-align: center;
   margin: 0 0 40px 0;
 }
@@ -32,6 +32,7 @@ h2 {
 
 h3 {
   font-size: 24px;
+  margin: 0 0 28px 0;
 }
 
 p,
@@ -47,21 +48,19 @@ img {
 
 table {
   border-collapse: collapse;
-  border: 3px solid #cdd6f4;
+  border: 5px solid #cdd6f4;
+  margin: 0 0 0 20px;
 }
 
 td,
 th {
-  border: 2px solid #cdd6f4;
+  border: 3px solid #cdd6f4;
   padding: 10px 20px;
+  text-align: center;
 }
 
 th {
   background-color: #45475a;
-}
-
-td {
-  text-align: center;
 }
 
 tr:nth-child(even) td {
