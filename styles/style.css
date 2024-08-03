@@ -2,7 +2,9 @@ html {
   font-family: "Open Sans", sans-serif;
   letter-spacing: 1px;
   color: #cdd6f4;
-  background: linear-gradient(#11111b, #b4befe);
+  background: linear-gradient(to top, #94e2d5, #11111b),
+    linear-gradient(to right, #cba6f7, #11111b);
+  background-blend-mode: screen;
 }
 
 body {
