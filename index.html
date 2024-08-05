@@ -14,6 +14,7 @@
     <h1>Logic gates</h1>
 
     <h2>What are logic gates?</h2>
+    <p id="greeting"></p>
     <p>
       Logic gates are devices that take in one or more binary values as inputs
       and produces a single binary value as output.
@@ -31,10 +32,12 @@
     <h2>The different types of logic gates</h2>
     <div>
       <h3>The AND gate</h3>
+
       <img
         src="images/and-gate.svg"
         alt="AND gate symbol with inputs A and B and output C"
       />
+
       <table align="right">
         <caption>
           AND gate truth table
@@ -69,6 +72,7 @@
           <td>1</td>
         </tr>
       </table>
+
       <p>
         Now let's begin with the most popular gate, the AND gate. you've most
         likely heard about it before, and maybe wondered, why is it called an
@@ -77,6 +81,7 @@
         are a 1. in other words, C will be 1 if and only if both A
         <strong>and</strong> B are 1.
       </p>
+
       <p>
         For further information consider reading the
         <a href="https://en.wikipedia.org/wiki/AND_gate">AND gate wikipage</a>
@@ -84,10 +89,12 @@
     </div>
     <div>
       <h3>The OR gate</h3>
+
       <img
         src="images/or-gate.svg"
         alt="OR gate symbol with inputs A and B and output C"
       />
+
       <table align="right">
         <caption>
           OR gate truth table
@@ -122,12 +129,14 @@
           <td>1</td>
         </tr>
       </table>
+
       <p>
         Now that we're done with the AND gate, it follows that there an OR gate.
         Okay, so why is it called an OR gate? yep you've guessed it, because it
         outputs a 1 when either its inputs are a 1. in other words, C will be 1
         if either A <strong>or</strong> B are 1.
       </p>
+
       <p>
         For further information consider reading the
         <a href="https://en.wikipedia.org/wiki/OR_gate">OR gate wikipage</a>
@@ -135,10 +144,12 @@
     </div>
     <div>
       <h3>The XOR gate</h3>
+
       <img
         src="images/xor-gate.svg"
         alt="XOR gate symbol with inputs A and B and output C"
       />
+
       <table align="right">
         <caption>
           XOR gate truth table
@@ -173,18 +184,24 @@
           <td>0</td>
         </tr>
       </table>
+
       <p>
         Alright now we're upping the difficulty a bit, but don't get cold feet
         yet. Now, let's talk about the XOR gate. which is like OR gate's cousin,
-        its truth table defers from OR gate's by a single row, it outputs a 1
+        its truth table differs from OR gate's by a single row, it outputs a 1
         when either its inputs are a 1. in other words, C will be 1 if and only
         if either A
         <strong>or</strong> B are 1 but <strong>not both</strong>.
       </p>
+
       <p>
         For further information consider reading the
         <a href="https://en.wikipedia.org/wiki/XOR_gate">XOR gate wikipage</a>
       </p>
     </div>
+
+    <button>Change Username</button>
+
+    <script src="scripts/main.js"></script>
   </body>
 </html>
